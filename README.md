@@ -1,16 +1,17 @@
-### Hi there 👋
+### Bem Vindo a seu perfil 🖤
 
-<!--
-**Realbok/Realbok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **João Pedro**
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura] (htpps://alura.com.br)
+- Estou desenvolvendo a linguagem javaScript
+- Utilizo esse espaço para a minha organização e compartilhamento dos meus ṕrojetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você entrarem contato comigo pelo email 📫
+
+-  joaopedroafm121@gmail.com
+
+
+
+
+
+  ![image](https://github.com/Realbok/Realbok/assets/145782294/5db0ffcc-dd9d-4954-b4a4-97bae6eaeee8)
